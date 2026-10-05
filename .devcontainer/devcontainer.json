@@ -12,7 +12,7 @@
         "trivial-space/libs": {
           "permissions": "write-all"
         },
-        "trivial-space/libs-wasm": {
+        "trivial-space/trivalibs-rs": {
           "permissions": "write-all"
         },
         "trivial-space/painter": {

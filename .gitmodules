@@ -6,4 +6,4 @@
 	url = git@github.com:trivial-space/painter.git
 [submodule "projects/libs-wasm"]
 	path = projects/libs-wasm
-	url = git@github.com:trivial-space/libs-wasm.git
+	url = git@github.com:trivial-space/trivalibs-rs.git

@@ -18,7 +18,7 @@ This workflow builds on following libraries:
   tweaked for live coding / hot reloading.
 - [Libs](https://github.com/trivial-space/libs), a collection of useful
   functions and helpers.
-- [Libs-wasm](https://github.com/trivial-space/libs-wasm), collection of rust
+- [Libs-wasm](https://github.com/trivial-space/trivalibs-rs), collection of rust
   utilities for creative coding and geometric alorithms targeting web assembly.
 
 This is the primary repository for trivial space sketches. Experiments and works
