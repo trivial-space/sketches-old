@@ -7,10 +7,10 @@
   "homepage": "https://trivialspace.net",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/trivial-space/playground.git"
+    "url": "git+https://github.com/trivial-space/sketches-old.git"
   },
   "bugs": {
-    "url": "https://github.com/trivial-space/playground/issues"
+    "url": "https://github.com/trivial-space/sketches-old/issues"
   },
   "type": "module",
   "scripts": {
