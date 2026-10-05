@@ -1,4 +1,16 @@
-# Trivial space sketches
+# Trivial space sketches (old)
+
+> **Discontinued.** No new development happens here. This repo is built on the
+> old Rust libs (`projects/libs-wasm`, the 2024 wasm-only version of
+> [trivalibs-rs](https://github.com/trivial-space/trivalibs-rs)) and the TS
+> painter, and is frozen in that state. Its sketches stay live at
+> [sketches-old.trivialspace.net](https://sketches-old.trivialspace.net), and
+> some are featured on [trivialspace.net](https://www.trivialspace.net).
+>
+> Active work continues in
+> [sketches-scala](https://github.com/trivial-space/sketches-scala) and
+> [trivalibs-scala](https://github.com/trivial-space/trivalibs-scala), live at
+> [sketches.trivialspace.net](https://sketches.trivialspace.net).
 
 Trivial space started as an art project back in 2012 to explore the
 possibilities of current web technologies as presentation platform for virtual
@@ -21,12 +33,13 @@ This workflow builds on following libraries:
 - [Libs-wasm](https://github.com/trivial-space/trivalibs-rs), collection of rust
   utilities for creative coding and geometric alorithms targeting web assembly.
 
-This is the primary repository for trivial space sketches. Experiments and works
-are build here, while working both on the programming tools as well as on
+This was the primary repository for trivial space sketches. Experiments and
+works were built here, while working both on the programming tools as well as on
 artistic expressions.
 
 Basically everything here is work in progress. Intermediate results are
-published to [sketches.trivialspace.net](https://sketches.trivialspace.net),
+published to
+[sketches-old.trivialspace.net](https://sketches-old.trivialspace.net),
 which is just a statically hosted version of the `public` folder of this
 repository.
 
